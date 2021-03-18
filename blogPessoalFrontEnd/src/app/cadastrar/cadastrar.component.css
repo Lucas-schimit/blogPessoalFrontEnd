@@ -1,0 +1,7 @@
+#img-bg{
+    background-image: url('https://images.pexels.com/photos/5135120/pexels-photo-5135120.jpeg?cs=srgb&dl=pexels-valeriia-miller-5135120.jpg&fm=jpg');
+    min-height: 695px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
